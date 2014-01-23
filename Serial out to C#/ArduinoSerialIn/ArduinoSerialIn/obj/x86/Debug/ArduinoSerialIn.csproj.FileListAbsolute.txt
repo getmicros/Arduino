@@ -1,0 +1,8 @@
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.pdb
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Form1.resources
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Properties.Resources.resources
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.csproj.GenerateResource.Cache
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.exe
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.pdb
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe.config
