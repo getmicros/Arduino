@@ -1,0 +1,8 @@
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.exe
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.pdb
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.Form1.resources
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.Properties.Resources.resources
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.csproj.GenerateResource.Cache
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.exe
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.pdb
+F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.exe.config
